@@ -1,7 +1,12 @@
-# Hi, I'm Abhay 👋
+<div align="center">
 
-An ECE undergraduate passionate about **FPGA Design, Post-Quantum Cryptography, and Secure Communication Systems**, with hands-on experience in **SystemVerilog, TLS, and FPGA workflows (Xilinx Vivado/Vitis)**.  
-I enjoy building practical hardware-software projects at the intersection of **cryptography, embedded systems, and digital design** 🚀.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhay+👋;Electronics+%26+Communication+Engineer;Secure+Systems+Enthusiast;Post-Quantum+Explorer;Hardware-Software+Co-Designer;Robotics+%26+Networking+Learner)](https://git.io/typing-svg)
+
+🎓 ECE Undergraduate @ PES College of Engineering, Bengaluru (Batch 2026)  
+🔐 Exploring **Post-Quantum Cryptography, FPGA Design & Secure Communication Systems**  
+⚡ Passionate about **Cryptography | FPGA | Robotics | Quantum Computing | Networking**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbhayPK-247&style=for-the-badge&color=blueviolet)
 
 ---
 
@@ -37,11 +42,58 @@ I enjoy building practical hardware-software projects at the intersection of **c
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
 
+---
 
 ## 🌐 Connect with Me  
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaykalghatkar)  
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhikalghatkar88@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhayPK-247) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaykalghatkar) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhikalghatkar88@gmail.com)  
 
 ---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=AbhayPK-247&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=AbhayPK-247&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhayPK-247&show_icons=true" height="160"/>
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPK-247&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPK-247&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPK-247&layout=compact" height="160"/>
+  </picture>
+</p>  
+
+<p align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=AbhayPK-247&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=AbhayPK-247&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=AbhayPK-247" height="160"/>
+  </picture>
+</p>  
+
+---
+
+## 📈 Contribution Graph  
+
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbhayPK-247&theme=tokyo-night&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbhayPK-247&theme=github-light&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayPK-247&theme=github-light&hide_border=true" />
+</picture>  
+
+---
+
+## 🐍 Watch my contributions get eaten by a Snake!  
+
+![snake gif](https://raw.githubusercontent.com/AbhayPK-247/AbhayPK-247/output/snake.svg)
+
+---
+
 ✨ *"Engineering the future with secure systems & innovative hardware solutions."* ✨  
+
+</div>
